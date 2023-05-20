@@ -1020,7 +1020,7 @@ l_english:
  
  #Techno-Organic
  decision_subsurface_assembly:0 "Subsurface Assembly."
- decision_subsurface_assembly_desc:0 "The network to be where some synthetic life was once created. It should be possible to update them to our needs."
+ decision_subsurface_assembly_desc:0 "The network used to be where some synthetic life was once created. It should be possible to update them to our needs."
  d_subsurface_assembly:0 "Sub-Surface Cauldron Network."
  d_subsurface_assembly_desc:0 "These large networks of factories are where Unit 04 did its work creating synth creatures and Living Metal."
  job_synth_assembler:0 "Synthetic Life Assembler."
